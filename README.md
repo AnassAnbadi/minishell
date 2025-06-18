@@ -286,7 +286,7 @@ This project is part of the 42 School curriculum. Feel free to use it for educat
 
 ---
 
-**Made with ❤️ by [AnassAnbadi](https://github.com/AnassAnbadi)**
+**Made with  by [AnassAnbadi](https://github.com/AnassAnbadi)**
 
 *"The shell is the user's interface to the operating system"*
 ```
